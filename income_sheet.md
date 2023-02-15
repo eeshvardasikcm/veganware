@@ -1,7 +1,7 @@
 # Veganware income sheet
 
 No one has sponsored me at all to write code.
-Even code I have written that os not veganware
+Even code I have written that is not veganware
 has not provided me any income at all.
 
 No donations of cash, resources, gifts,
